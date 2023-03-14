@@ -1,3 +1,4 @@
+LOCAL
 # new-project
 
 voici quelques ligne
